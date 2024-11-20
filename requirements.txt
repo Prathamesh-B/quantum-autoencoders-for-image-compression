@@ -1,0 +1,7 @@
+qiskit
+qiskit-aer
+qiskit[visualization]
+jupyter
+matplotlib
+numpy
+pylatexenc
